@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I'm a passionate **QA Engineer** with expertise in
 ---
 
 ## 📫 Let's Connect!
-- LinkedIn: [Kumar Abhishel on LinkedIn](https://www.linkedin.com/in/kumar-abhishek-362434162/)
-- Portfolio: [Kumar Abhishel's Portfolio](https://kumar-abhishek.netlify.app/)
+- LinkedIn: [Kumar Abhishek on LinkedIn](https://www.linkedin.com/in/kumar-abhishek-362434162/)
+- Portfolio: [Kumar Abhishek's Portfolio](https://kumar-abhishek.netlify.app/)
 
 ---
 
