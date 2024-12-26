@@ -1,3 +1,5 @@
+![Demo GIF](assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 # Hi there 👋, I'm Kumar Abhishek!
 
 Welcome to my GitHub profile! I'm a passionate **QA Engineer** with expertise in **Playwright**, **Selenium**, **JavaScript**, **PostMan**, and **Rest Assured** for **API testing**. I’m constantly working on improving my automation skills and exploring AI in testing to create more efficient workflows.
